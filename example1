@@ -4,3 +4,6 @@
     <td><td/>
   <tr/>
 <table/>
+if("maor" == "zain"){
+alert(`Maor Ha Zain`)
+}
